@@ -372,10 +372,69 @@ Screen-shot of your installation; Screen-shot of the board which shows the optio
 
 **Solution**: https://github.com/nishantparhi/Intro-to-arduino
 
-#### My 23rd task()
+#### My 23rd task(Blog post about booting a Fedora ARM image to Raspberry PI)
 
-#### My 24th task()
+Fedora is a Linux distribution developed by the community-supported Fedora Project and sponsored by Red Hat. Fedora contains software distributed under various free and open-source licenses and aims to be on the leading edge of such technologies. Raspberry Pi is an ARM-based mini “computer” used for prototyping embedded computing projects. The Fedora ARM installer is a quick and easy way to prepare an SD card with a Fedora image that is bootable on a Raspberry PI.
 
-#### My 25th task()
+*Note*:
 
-#### MY 26th task()
+You must try this in a real Raspberry Pi (any version) and add the screenshots.
+You must not submit plagiarized content (no copy-paste). Always make sure the content is your own.
+
+*Goals*
+Verify the steps and prepare a blog post for creating a Fedora Raspberry Pi bootable SD card.
+
+*Deliverables*
+Create a blog post and share it here
+The post can be a Google Docs document, a Word document or a Github Gist written in markdown.
+
+**Solution**:https://nishantparhi.wordpress.com/2018/12/05/booting-fedora-arm-image-to-raspberry-pi/
+
+#### My 24th task(Automate release validation in Fedora)
+
+The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project. Read from https://www.cloudbees.com/sites/default/files/cje-study-guide-2018.pdf
+
+Ansible is open source software that automates software provisioning, configuration management, and application deployment. Ansible connects via SSH, remote PowerShell or via other remote APIs.
+
+*Goal*
+To automate Fedora release validation using Jenkins and Ansible
+
+*Steps*
+* Write a playbook/role automating release validation steps to get steps, go to https://www.happyassassin.net/testcase_stats/29/, select OS, select any one test.
+* Install Ansible plugin in Jenkins
+* Trigger the job on the latest available image
+
+*Deliverables*
+Share the role in a GitHub repo with the mentor (vipul@redhat.com)
+
+**Solution**:https://github.com/nishantparhi/Automate-Release-Validation
+
+#### My 25th task(Automation using Ansible)
+
+Automate https://fedoraproject.org/wiki/QA:Testcase_base_service_manipulation using ansible (roles).
+
+* Take some other daemon instead of sshd and put it in a variable so that it can be changed/more services can be added later.
+
+* Submit the link to a repo with a playbook and the roles.
+
+https://fedoraproject.org/wiki/QA:Testcase_base_service_manipulation
+
+**Solution**: https://bitbucket.org/nishantparhi/automation-using-ansible/src/master/
+
+#### MY 26th task(Use Keybindings for 5 Plugins/Actions)
+
+Vim - the ubiquitous text editor Vim is a highly configurable text editor for efficiently creating and changing any kind of text. Vim is usually available by default in most of the operating systems, making it universal. If not available. It can be installed by any package manager. Vim is very powerful and highly extensible. Plugins can be used to make it feel like every other IDE out there. Explore different Plugins and select your top 5 plugins. There are ample amount of youtube videos and blogs on the Internet to help.
+
+*Goal*
+Use keybindings to change atleast 5 default keys for plugins
+
+*Suggested approach*
+* Learn how to bind keys
+* Modify vimrc
+
+*Deliverables*
+Mail vimrc file's link to the mentor (vipul@redhat.com) vimrc file should be in a repo
+
+**Solution**: https://github.com/nishantparhi/Vimrc-configuration/blob/master/vimrc
+
+#### My 27th task(Design a New Home Screen for Fedora App)
