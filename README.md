@@ -325,7 +325,7 @@ To create an inventory file using ansible template feature
 *Deliverables*
 Share j2 file and the playbook in a repo/gist and mail the link to the mentor (vipul@redhat.com)
 
-**Solution**: 
+**Solution**:https://github.com/nishantparhi/Dynamic-inventory 
 
 #### My 20th task(Connecting with the internet -GET the time)
 
@@ -337,6 +337,45 @@ You have to connect your board to the internet (preferably through WiFi). Then m
 
 *Deliverable*: The sketch (code), the circuit diagram (if you have used any external module to connect) and API link.
 
-#### My 21st task()
+**Solution**:https://github.com/nishantparhi/Get-Time
 
-#### My 22nd task()
+#### My 21st task(Automate a job using Ansible that has been taking your time.)
+
+*Goal*
+Think of a job that needs automation and automate it
+
+*Suggested approach*
+Finish task 5254136867061760 Gather information on modules to be used and automate it
+
+*Deliverables*
+Share the playbook/roles in a repo and mail the repo link to the mentor. (vipul@redhat)
+
+**Solution**: https://github.com/nishantparhi/Automate-timetaking-task
+
+#### My 22nd task(Getting started with Arduino)
+
+The entire task is divided into two subtasks: Setting up the board for NodeMCU; and Interfacing and changing the brightness of an LED.
+
+*Requirements*:
+
+Arduino (any board)/NodeMCU (any board from ESP8266 family) LED 1 Resistor [320-520 Ohm] (less the resistance bright the intensity, hence no resistance high intensity which further burns the LED)
+
+*Task*:
+
+Install the Arduino IDE on Fedora; Set up the IDE for NodeMCU board; Add the library for DHT11, ESP8266WiFi and ESP8266HTTPClient;
+
+Interface an LED and change the brightness of the LED (print this on the Serial Monitor indicating the analog Values);
+
+*Deliverable*:
+
+Screen-shot of your installation; Screen-shot of the board which shows the option for NodeMCU board; Screen-shot of Include Library from tools which shows the option for the required Libraries; Sketch (code) for varying LED brightness; Screenshot of the Serial Monitor.
+
+**Solution**: https://github.com/nishantparhi/Intro-to-arduino
+
+#### My 23rd task()
+
+#### My 24th task()
+
+#### My 25th task()
+
+#### MY 26th task()
