@@ -1,3 +1,4 @@
+# Answers to all the Google Code In tasks which I had Completed.
 
 #### My 1st task.(Setup Git)
 
@@ -12,11 +13,22 @@ Configure your name and email address that you use with FAS/Github etc. Git uses
 *Deliverables*:
 Submit output of git config --get-regexp "user*" Please mask your email addresses such as with asterisks
 
-
 #### My 2nd task.(Join Fedora Project! Create an account on FAS)
-In this task we just need to make an account in FAS.
+Welcome to the Fedora Project!
 
-**Note**: These 2 were Beginner task so I am not including the answer.
+The Fedora Account System (FAS) is an authentication and authorization system used in the Fedora Project. Creating a FAS account grants you access to Pagure, Community Blog, Bugzilla and the Fedora Wiki which are required in the subsequent tasks.
+
+https://admin.fedoraproject.org/accounts
+
+*Goals*
+Sign up with FAS. Setup your timezone. You must not attach any other field except passwords during registration
+
+*Deliverables*
+Submit your FAS id. Your "Account name" is your FAS ID. Please do not attach screenshots or any other document which displays other personal information. If you have done so, please hide/remove it.
+
+https://admin.fedoraproject.org/accounts
+
+### **Note**: These 2 were Beginner task so I am not including the answer.
 
 #### My 3rd task(write a blog on your top 5 most used Ansible module / how you plan to use ansible)
 
@@ -374,7 +386,7 @@ Screen-shot of your installation; Screen-shot of the board which shows the optio
 
 #### My 23rd task(Blog post about booting a Fedora ARM image to Raspberry PI)
 
-Fedora is a Linux distribution developed by the community-supported Fedora Project and sponsored by Red Hat. Fedora contains software distributed under various free and open-source licenses and aims to be on the leading edge of such technologies. Raspberry Pi is an ARM-based mini “computer” used for prototyping embedded computing projects. The Fedora ARM installer is a quick and easy way to prepare an SD card with a Fedora image that is bootable on a Raspberry PI.
+Fedora is a Linux distribution developed by the community-supported Fedora Project and sponsored by Red Hat. Fedora contains software distributed under various free and open-source licenses and aims to be on the leading edge of such technologies. Raspberry Pi is an ARM-based mini Â“computerÂ” used for prototyping embedded computing projects. The Fedora ARM installer is a quick and easy way to prepare an SD card with a Fedora image that is bootable on a Raspberry PI.
 
 *Note*:
 
