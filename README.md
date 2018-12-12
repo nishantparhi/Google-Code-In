@@ -263,4 +263,80 @@ The post can be a Google Docs document, a Word document or a Github Gist written
 
 **Solution**: https://nishantparhi.wordpress.com/2018/11/25/running-opencv-on-fedora/
 
-#### My 16th task()
+#### My 16th task(Blog post with steps for running Tensorflow on Fedora)
+
+Tensorflow is an open source framework used for mathematical operation, widely used in AI and Machine Learning. It supports heterogeneous computing environments such as CPU, GPU and distributed computing. However, it has a notoriety for being tricky to install.
+
+*Goal*
+Verify and make a blog post for the steps for installing TensorFlow libraries (for Python) in Fedora.
+
+*Deliverables*
+Create a blog post and share it with amitosh@fedoraproject.org
+The post can be a Google Docs document, a Word document or a Github Gist written in markdown.
+
+**Solution**:https://nishantparhi.wordpress.com/2018/11/25/running-tensorflow-on-fedora/
+
+#### My 17th task(Blog post with steps for booting Fedora from a PXE server)
+
+Bootstrapping a Fedora installation from a PXE server (also called as a network boot) is a non-trivial task. We seek to provide a proper guide for doing such.
+
+*Requirements*
+This task requires comfortable skills with BIOS and basic network knowledge such as IP addresses.
+
+*Goals*
+To create a guide for Fedora network boot. It should cover topics such as setting up an install server using cobbler, configuring the DHCP and the system BIOS.
+
+*Deliverables*
+Create a blog post and share it with amitosh@fedoraproject.org
+The post can be a Google Docs document, a Word document or a Github Gist written in markdown.
+https://docs.fedoraproject.org/en-US/Fedora/13/html/Installation_Guide/sn-booting-from-pxe-x86.html
+
+**Solution**:https://nishantparhi.wordpress.com/2018/11/25/booting-fedora-from-a-pxe-server/
+
+#### My 18th task(Execute ansible playbook from Jenkins using Ansible plugin)
+
+The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project. Read from https://www.cloudbees.com/sites/default/files/cje-study-guide-2018.pdf
+
+Ansible is open source software that automates software provisioning, configuration management, and application deployment. Ansible connects via SSH, remote PowerShell or via other remote APIs.
+
+*Goal*
+To execute an Ansible playbook from Jenkins
+
+*Steps*
+* Write a playbook
+* Install Ansible plugin in Jenkins
+* Trigger the job
+
+*Deliverables*
+Put the console output and Ansible playbook in a repo and steps on a README, share the link with the mentor (vipul@redhat.com)
+
+**Solution**:https://github.com/nishantparhi/Ansible-in-jenkins
+
+#### My 19th task(Create dynamic inventory (Ansible) using Jinja2 templates)
+
+*Goal*
+To create an inventory file using ansible template feature
+
+*Suggested approach*
+* pass variable in command using flag -e
+* use jinja2 to define the structure to the inventory file
+* use template module to pass variable to j2 files and create inventory
+
+*Deliverables*
+Share j2 file and the playbook in a repo/gist and mail the link to the mentor (vipul@redhat.com)
+
+**Solution**: 
+
+#### My 20th task(Connecting with the internet -GET the time)
+
+In order to communicate over any network you either transmit or receive the data. In this task, you have to receive the data using an API.
+
+You have to connect your board to the internet (preferably through WiFi). Then make an API of any website which provides you time in your local time-zone. You have to send a GET request, and read the time and print it on the Serial Monitor/Terminal.
+
+*Preferred Boards*: NodeMCU | Raspberry PI | Arduino + ESP8266
+
+*Deliverable*: The sketch (code), the circuit diagram (if you have used any external module to connect) and API link.
+
+#### My 21st task()
+
+#### My 22nd task()
