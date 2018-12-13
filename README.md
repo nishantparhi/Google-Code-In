@@ -464,5 +464,5 @@ Reach out to thelittlewonder@fedoraproject.org if you have any doubts.
 https://pagure.io/Fedora-app/issue/115
 
 **Solution**:
-![](design1st.png){:height="700px" width="400px"}
-![](Design2nd.png){:height="700px" width="400px"}
+![](design1st.png)
+![](Design2nd.png)
