@@ -462,3 +462,7 @@ Introduction - We have a Fedora Community Application that allows Fedora users a
 Reach out to thelittlewonder@fedoraproject.org if you have any doubts.
 
 https://pagure.io/Fedora-app/issue/115
+
+**Solution**:
+![](design1st.png)
+![](design2nd.png)
