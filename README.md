@@ -463,6 +463,4 @@ Reach out to thelittlewonder@fedoraproject.org if you have any doubts.
 
 https://pagure.io/Fedora-app/issue/115
 
-**Solution**:
-![](design1st.png)
-![](Design2nd.png)
+**Solution**: https://github.com/nishantparhi/rubiks-cube-solver-tensorflow/tree/master/Design
