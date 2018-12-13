@@ -463,4 +463,4 @@ Reach out to thelittlewonder@fedoraproject.org if you have any doubts.
 
 https://pagure.io/Fedora-app/issue/115
 
-**Solution**: https://github.com/nishantparhi/rubiks-cube-solver-tensorflow/tree/master/Design
+**Solution**: https://github.com/nishantparhi/Google-Code-In/tree/master/Design
