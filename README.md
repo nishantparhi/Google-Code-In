@@ -1,4 +1,4 @@
-# Answers to all the Google Code In tasks which I had Completed.
+﻿# Answers to all the Google Code In tasks which I had Completed.
 
 #### My 1st task.(Setup Git)
 
@@ -464,3 +464,6 @@ Reach out to thelittlewonder@fedoraproject.org if you have any doubts.
 https://pagure.io/Fedora-app/issue/115
 
 **Solution**: https://github.com/nishantparhi/Google-Code-In/tree/master/Design
+
+I have Completed 27 task. Hope this helps.
+![](gcitask.JPG)
