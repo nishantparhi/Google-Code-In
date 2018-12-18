@@ -13,6 +13,8 @@ Configure your name and email address that you use with FAS/Github etc. Git uses
 *Deliverables*:
 Submit output of git config --get-regexp "user*" Please mask your email addresses such as with asterisks
 
+
+
 #### My 2nd task.(Join Fedora Project! Create an account on FAS)
 Welcome to the Fedora Project!
 
@@ -29,6 +31,8 @@ Submit your FAS id. Your "Account name" is your FAS ID. Please do not attach scr
 https://admin.fedoraproject.org/accounts
 
 ### **Note**: These 2 were Beginner task so I am not including the answer.
+
+
 
 #### My 3rd task(write a blog on your top 5 most used Ansible module / how you plan to use ansible)
 
@@ -48,6 +52,8 @@ Share blog's link with mentor (vipul@redhat.com)
 https://docs.ansible.com/ansible/latest/modules/list_of_all_modules.html
 
 **Solution**: https://nishantparhi.wordpress.com/2018/10/30/top-5-favorite-ansible-module/
+
+
 
 #### My 4th task(write a blog on your top 5 most used Ansible module / how you plan to use ansible)
 
@@ -70,6 +76,8 @@ https://docs.ansible.com/ansible/latest/modules/list_of_all_modules.html
 
 **Solution**: https://nishantparhi.wordpress.com/2018/10/30/top-5-favorite-ansible-module/
 
+
+
 #### My 5th task(write a blog post on 5 favorite vim plugin)
 
 Vim - the ubiquitous text editor Vim is a highly configurable text editor for efficiently creating and changing any kind of text. Vim is usually available by default in most of the operating systems, making it universal. If not available. It can be installed by any package manager. Vim is very powerful and highly extensible. Plugins can be used to make it feel like every other IDE out there. Explore different Plugins and select your top 5 plugins. There are ample amount of youtube videos and blogs on the Internet to help.
@@ -89,6 +97,8 @@ https://github.com/VundleVim/Vundle.vim
 
 **Solution**: https://nishantparhi.wordpress.com/2018/11/07/top-5-favorite-vim-plugin/
 
+
+
 #### My 6th task(write a blog on YML files (explanation and syntax))
 
 YAML is a human-readable data serialization language. It is commonly used for configuration files but could be used in many applications where data is being stored or transmitted.
@@ -103,6 +113,8 @@ Follow blogs and youtube videos about YML and understand how to write lists, dic
 Share blog link with the mentor (vipul@redhat.com)
 
 **Solution**: https://nishantparhi.wordpress.com/2018/11/11/learn-about-yaml-files/
+
+
 
 #### My 7th task(Blog post with steps for running Tensorflow GPU on Fedora)
 
@@ -120,6 +132,8 @@ Create a blog post and share it with amitosh@fedoraproject.org
 The post can be a Google Docs document, a Word document or a Github Gist written in markdown.
 
 **Solution**: https://nishantparhi.wordpress.com/2018/11/12/running-tensorflow-gpu-on-fedora/
+
+
 
 #### My 8th task(Create a playbook and run it on remote nodes)
 
@@ -139,6 +153,8 @@ Share the asciinema recording
 
 **Solution**: https://github.com/nishantparhi/Remote-nodes
 
+
+
 #### My 9th task(Think of an idea to automate a boring job (using Ansible))
 
 Ansible is open source software that automates software provisioning, configuration management, and application deployment. Ansible connects via SSH, remote PowerShell or via other remote APIs. We perform some task that takes a lot of time and is to be done often.
@@ -153,6 +169,8 @@ think of a task that you have done and has taken a lot of time. Write down the s
 write a blog and share the idea with a mentor. Mail the blog link to the mentor. (vipul@redhat)
 
 **Solutions**: https://nishantparhi.wordpress.com/2018/11/17/105/
+
+
 
 #### My 10th task(Communication over Serial Monitor)
 
@@ -178,6 +196,8 @@ Read the data from Serial Monitor as ON/OFF and based on which turn the state of
 
 **Solution**: https://github.com/nishantparhi/Communication-over-Serial-Monitor
 
+
+
 #### My 11th task(DNS-SD demo for Fedora)
 
 mDNS/DNS-SD is a technology used for zero configuration networking. It is widely used in IoT and consumer devices such as Smart TV, printers etc. Our goal is to demo mDNS capabilities of Linux using Avahi.
@@ -194,6 +214,8 @@ Design a mDNS client/server demo using Python. For the client, you can use https
 * Share the project link
 
 **Solution**: https://github.com/nishantparhi/demo-zeroconf
+
+
 
 #### My 12th task(Write a custom Ansible module to perform a task)
 
@@ -215,6 +237,8 @@ https://docs.ansible.com/ansible/latest/modules/modules_by_category.html
 
 **Solution**: https://github.com/nishantparhi/my_ansible_module
 
+
+
 #### My 13th task(Write ansible roles to install & update packages)
 
 Ansible is a universal language, unraveling the mystery of how work gets done. Turn tough tasks into repeatable playbooks. Roll out enterprise-wide protocols with the push of a button.
@@ -229,6 +253,8 @@ Write an Ansible role to
 Put it in a repo and share the link in a repo
 
 **Solution**: https://github.com/nishantparhi/install-update-role
+
+
 
 #### My 14th task(Install jenkins in a container)
 
@@ -247,6 +273,8 @@ https://jenkins.io/doc/book/installing/#downloading-and-running-jenkins-in-docke
 
 **Solution**:https://github.com/nishantparhi/Shell-Jenkins
 
+
+
 #### My 14th task(Write a blog on steps to execute a shell script from Jenkins)
 
 The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project. Read from https://www.cloudbees.com/sites/default/files/cje-study-guide-2018.pdf and brief about important topics.
@@ -262,6 +290,8 @@ Put the shell script in a repo and steps on a README, share link with the mentor
 
 **Solution**: https://github.com/nishantparhi/Ansible-in-jenkins
 
+
+
 #### My 15th task(Blog post with steps for running OpenCV on Fedora)
 
 OpenCV (Open Source Computer Vision) is a library of programming functions mainly aimed at real-time computer vision. It sees wide use in AI applications. However, it has a notoriety for being tricky to install.
@@ -275,6 +305,8 @@ The post can be a Google Docs document, a Word document or a Github Gist written
 
 **Solution**: https://nishantparhi.wordpress.com/2018/11/25/running-opencv-on-fedora/
 
+
+
 #### My 16th task(Blog post with steps for running Tensorflow on Fedora)
 
 Tensorflow is an open source framework used for mathematical operation, widely used in AI and Machine Learning. It supports heterogeneous computing environments such as CPU, GPU and distributed computing. However, it has a notoriety for being tricky to install.
@@ -287,6 +319,8 @@ Create a blog post and share it with amitosh@fedoraproject.org
 The post can be a Google Docs document, a Word document or a Github Gist written in markdown.
 
 **Solution**:https://nishantparhi.wordpress.com/2018/11/25/running-tensorflow-on-fedora/
+
+
 
 #### My 17th task(Blog post with steps for booting Fedora from a PXE server)
 
@@ -304,6 +338,8 @@ The post can be a Google Docs document, a Word document or a Github Gist written
 https://docs.fedoraproject.org/en-US/Fedora/13/html/Installation_Guide/sn-booting-from-pxe-x86.html
 
 **Solution**:https://nishantparhi.wordpress.com/2018/11/25/booting-fedora-from-a-pxe-server/
+
+
 
 #### My 18th task(Execute ansible playbook from Jenkins using Ansible plugin)
 
@@ -324,6 +360,8 @@ Put the console output and Ansible playbook in a repo and steps on a README, sha
 
 **Solution**:https://github.com/nishantparhi/Ansible-in-jenkins
 
+
+
 #### My 19th task(Create dynamic inventory (Ansible) using Jinja2 templates)
 
 *Goal*
@@ -339,6 +377,8 @@ Share j2 file and the playbook in a repo/gist and mail the link to the mentor (v
 
 **Solution**:https://github.com/nishantparhi/Dynamic-inventory 
 
+
+
 #### My 20th task(Connecting with the internet -GET the time)
 
 In order to communicate over any network you either transmit or receive the data. In this task, you have to receive the data using an API.
@@ -350,6 +390,8 @@ You have to connect your board to the internet (preferably through WiFi). Then m
 *Deliverable*: The sketch (code), the circuit diagram (if you have used any external module to connect) and API link.
 
 **Solution**:https://github.com/nishantparhi/Get-Time
+
+
 
 #### My 21st task(Automate a job using Ansible that has been taking your time.)
 
@@ -363,6 +405,8 @@ Finish task 5254136867061760 Gather information on modules to be used and automa
 Share the playbook/roles in a repo and mail the repo link to the mentor. (vipul@redhat)
 
 **Solution**: https://github.com/nishantparhi/Automate-timetaking-task
+
+
 
 #### My 22nd task(Getting started with Arduino)
 
@@ -384,6 +428,8 @@ Screen-shot of your installation; Screen-shot of the board which shows the optio
 
 **Solution**: https://github.com/nishantparhi/Intro-to-arduino
 
+
+
 #### My 23rd task(Blog post about booting a Fedora ARM image to Raspberry PI)
 
 Fedora is a Linux distribution developed by the community-supported Fedora Project and sponsored by Red Hat. Fedora contains software distributed under various free and open-source licenses and aims to be on the leading edge of such technologies. Raspberry Pi is an ARM-based mini computer used for prototyping embedded computing projects. The Fedora ARM installer is a quick and easy way to prepare an SD card with a Fedora image that is bootable on a Raspberry PI.
@@ -401,6 +447,8 @@ Create a blog post and share it here
 The post can be a Google Docs document, a Word document or a Github Gist written in markdown.
 
 **Solution**:https://nishantparhi.wordpress.com/2018/12/05/booting-fedora-arm-image-to-raspberry-pi/
+
+
 
 #### My 24th task(Automate release validation in Fedora)
 
@@ -421,6 +469,8 @@ Share the role in a GitHub repo with the mentor (vipul@redhat.com)
 
 **Solution**:https://github.com/nishantparhi/Automate-Release-Validation
 
+
+
 #### My 25th task(Automation using Ansible)
 
 Automate https://fedoraproject.org/wiki/QA:Testcase_base_service_manipulation using ansible (roles).
@@ -432,6 +482,8 @@ Automate https://fedoraproject.org/wiki/QA:Testcase_base_service_manipulation us
 https://fedoraproject.org/wiki/QA:Testcase_base_service_manipulation
 
 **Solution**: https://bitbucket.org/nishantparhi/automation-using-ansible/src/master/
+
+
 
 #### MY 26th task(Use Keybindings for 5 Plugins/Actions)
 
@@ -449,6 +501,8 @@ Mail vimrc file's link to the mentor (vipul@redhat.com) vimrc file should be in 
 
 **Solution**: https://github.com/nishantparhi/Vimrc-configuration/blob/master/vimrc
 
+
+
 #### My 27th task(Design a New Home Screen for Fedora App)
 
 Introduction - We have a Fedora Community Application that allows Fedora users as well as interested contributors to know what’s going on in the community. The current home screen houses a split screen design with carousel, it is not really intuitive to the new users, and we believe it can be simplified.
@@ -465,5 +519,6 @@ https://pagure.io/Fedora-app/issue/115
 
 **Solution**: https://github.com/nishantparhi/Google-Code-In/tree/master/Design
 
-**I have Completed 27 task. Hope this helps.**
-![](gcitask.JPG)
+                                                                                      **I have Completed 27 task. Hope this helps.**
+
+                                                                                                      ![](gcitask.JPG)
