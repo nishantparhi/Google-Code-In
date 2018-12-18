@@ -519,6 +519,5 @@ https://pagure.io/Fedora-app/issue/115
 
 **Solution**: https://github.com/nishantparhi/Google-Code-In/tree/master/Design
 
-                                                                                      **I have Completed 27 task. Hope this helps.**
-
-                                                                                                      ![](gcitask.JPG)
+**I have Completed 27 task. Hope this helps.**
+![](gcitask.JPG)
