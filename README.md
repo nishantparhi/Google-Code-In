@@ -1,4 +1,8 @@
-﻿# Answers to all the Google Code In tasks which I had Completed.
+﻿## Answers to all the Google Code In tasks which I had Completed.
+
+*I was selected as a finalist in Google Code In, 2018.*
+
+![](results.JPG)
 
 #### My 1st task.(Setup Git)
 
@@ -519,4 +523,3 @@ https://pagure.io/Fedora-app/issue/115
 
 **I have Completed 27 task. Hope this helps.**
 ![](gcitask.JPG)
-![](results.JPG)
