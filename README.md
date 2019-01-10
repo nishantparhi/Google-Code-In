@@ -1,6 +1,6 @@
 ﻿## Answers to all the Google Code In tasks which I had Completed.
 
-*I was selected as a finalist in Google Code In, 2018.*
+**I was selected as a finalist in Google Code In, 2018.**
 
 ![](results.JPG)
 
