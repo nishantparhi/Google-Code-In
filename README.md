@@ -19,7 +19,7 @@ Submit output of git config --get-regexp "user*" Please mask your email addresse
 
 
 
-#### My 2nd task.(Join Fedora Project! Create an account on FAS)
+#### My 2nd task.(Join Fedora Project! Create an account on FAS) 
 Welcome to the Fedora Project!
 
 The Fedora Account System (FAS) is an authentication and authorization system used in the Fedora Project. Creating a FAS account grants you access to Pagure, Community Blog, Bugzilla and the Fedora Wiki which are required in the subsequent tasks.
